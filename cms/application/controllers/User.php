@@ -13,18 +13,22 @@ class User extends CI_Controller {
     public function index() {
         $this->load->view('post');
     }
-
     public function add() {
         $postdata = file_get_contents("php://input");
         // print_r($postdata);
         $request = json_decode($postdata);
+        $cnt=1;
+        $str=" ";
         foreach ($request->users as $key => $user) {
             $data = array(
                 'name' => $user->fname,
                 'desc' => $user->lname,
             );
             $this->usermodel->add($data);
+            $str=$str." ".$cnt." : Record Saved ,";
+            $cnt++;
         }
+        echo trim($str,',');
     }
 
 }
