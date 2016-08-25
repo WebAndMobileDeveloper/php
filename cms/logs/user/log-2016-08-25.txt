@@ -1,0 +1,11 @@
+DEBUG - 2016-08-25 19:42:50 --> UTF-8 Support Enabled
+DEBUG - 2016-08-25 19:42:50 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-08-25 19:42:50 -->   1 : Record Saved ,
+DEBUG - 2016-08-25 19:42:50 --> Total execution time: 0.0570
+DEBUG - 2016-08-25 19:42:52 --> UTF-8 Support Enabled
+DEBUG - 2016-08-25 19:42:52 --> No URI present. Default controller set.
+DEBUG - 2016-08-25 19:42:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-08-25 19:42:52 --> Total execution time: 0.0420
+ERROR - 2016-08-25 19:43:24 -->   1 : Record Saved ,
+ERROR - 2016-08-25 19:52:51 --> Severity: Notice --> Undefined index: USER C:\xampp\htdocs\php\cms\system\core\Log.php 171
+ERROR - 2016-08-25 19:53:03 -->   1 : Record Saved ,
