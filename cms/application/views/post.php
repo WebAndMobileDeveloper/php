@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Angular JS POST</title>
+        <title>Add Student Details</title>
         <style type="text/css">
             * {
                 -webkit-box-sizing: border-box;
@@ -173,7 +173,8 @@
                                     return;
                                 $data = $scope.user;
                                 $scope.users.push($data);
-                                $scope.user = null;
+                                        .
+                                        $scope.user = null;
                                 $scope.name = "User Added !!!";
                             };
                             $scope.submit = function () {
