@@ -2,76 +2,8 @@
 <html>
     <head>
         <title>Add Student</title>
-        <style type="text/css">
-            * {
-                -webkit-box-sizing: border-box;
-                -moz-box-sizing: border-box;
-                box-sizing: border-box;
-                margin: 0;
-                padding: 0;
-                font-size: inherit;
-            }
-            html, body {
-                font-family: Verdana,sans-serif;
-                font-size: 15px;
-                line-height: 1.5;
-            }
-            .box{
-                display: table;
-                width: 80%;
-                margin: auto;
-                padding:0px 15px;
+        <?php queue_css($css);?>
 
-            }
-            .box .half{
-                width: 50%;
-                float: left;
-                padding:0 8px;
-
-            }
-            .table{
-                border-collapse: collapse;
-                text-align: center;
-                max-height: 200px;
-                overflow: auto;
-                width: 100%;
-            }
-
-            .delete{
-                cursor: pointer;
-                color:red;
-            }
-            tr{
-                height: 25px;
-            }
-            input[type=text]{
-                padding: 8px;
-                display: block;		    		    
-                width: 100%;		    
-            }
-            input[type=button]{
-                color: #FFFFFF;
-                box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-
-                border: none;
-                display: inline-block;
-                outline: 0;		    
-                padding: 8px 16px!important;
-                vertical-align: middle;
-                overflow: hidden;
-                text-decoration: none!important;
-                color: #fff;
-                background-color: #3CBABA;
-                text-align: center;
-                cursor: pointer;
-                white-space: nowrap;
-            }
-            .form-group{
-                margin-bottom: 8px;
-                display: table;
-                width: 100%;
-            }
-        </style>
     </head>
     <body ng-app="myApp">
         <div class="ctrl" ng-controller="Ctrl">			
@@ -97,7 +29,7 @@
                     </div>
                 </div>
                 <div class="half">					
-                    <table class="table" border="1" style="width:97.8%;">
+                    <table class="table" border="1" style="width:96.8%;">
                         <tr>
                             <th>NO</th>
                             <th>FNAME</th>
@@ -105,8 +37,8 @@
                             <th>DETELE</th>
                         </tr>
                     </table>
-                    <div style="display:block;height:100px;overflow-y:scroll;position:relative" id="scroll">	
-                        <table class="table" border="1" style="position:absolute;top:-26px;">
+                    <div style="display:block;height:115px;overflow-y:scroll;position:relative" id="scroll">	
+                        <table class="table" border="1" style="position:absolute;top:-38px;">
                             <tr>
                                 <th>NO</th>
                                 <th>FNAME</th>
@@ -202,6 +134,6 @@
 
 
         </script>
-
+        <?php queue_js($js);?>
     </body>
 </html>

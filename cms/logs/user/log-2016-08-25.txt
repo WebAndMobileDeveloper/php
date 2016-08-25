@@ -1,0 +1,42 @@
+ERROR - 2016-08-25 20:10:24 --> 404 Page Not Found: Static/css
+ERROR - 2016-08-25 20:10:24 --> 404 Page Not Found: Static/js
+ERROR - 2016-08-25 20:10:24 --> 404 Page Not Found: Static/js
+ERROR - 2016-08-25 20:10:24 --> 404 Page Not Found: Static/js
+ERROR - 2016-08-25 20:10:25 --> 404 Page Not Found: Static/js
+ERROR - 2016-08-25 20:10:25 --> 404 Page Not Found: Static/js
+ERROR - 2016-08-25 20:10:25 --> 404 Page Not Found: Static/js
+ERROR - 2016-08-25 20:10:27 --> 404 Page Not Found: Static/css
+ERROR - 2016-08-25 20:10:27 --> 404 Page Not Found: Static/js
+ERROR - 2016-08-25 20:10:27 --> 404 Page Not Found: Static/js
+ERROR - 2016-08-25 20:10:27 --> 404 Page Not Found: Static/js
+ERROR - 2016-08-25 20:10:28 --> 404 Page Not Found: Static/js
+ERROR - 2016-08-25 20:10:28 --> 404 Page Not Found: Static/js
+ERROR - 2016-08-25 20:10:28 --> 404 Page Not Found: Static/js
+ERROR - 2016-08-25 20:10:34 --> 404 Page Not Found: Static/css
+ERROR - 2016-08-25 20:10:34 --> 404 Page Not Found: Static/js
+ERROR - 2016-08-25 20:10:34 --> 404 Page Not Found: Static/js
+ERROR - 2016-08-25 20:10:34 --> 404 Page Not Found: Static/js
+ERROR - 2016-08-25 20:10:34 --> 404 Page Not Found: Static/js
+ERROR - 2016-08-25 20:10:34 --> 404 Page Not Found: Static/js
+ERROR - 2016-08-25 20:10:34 --> 404 Page Not Found: Static/js
+ERROR - 2016-08-25 20:28:47 -->   1 : Record Saved ,
+ERROR - 2016-08-25 20:33:27 --> Severity: Notice --> Undefined variable: css C:\xampp\htdocs\php\cms\application\views\post.php 5
+ERROR - 2016-08-25 20:33:27 --> Severity: Notice --> Undefined variable: js C:\xampp\htdocs\php\cms\application\views\post.php 208
+ERROR - 2016-08-25 20:34:01 --> Severity: Notice --> Undefined variable: key C:\xampp\htdocs\php\cms\application\helpers\queuescript_helper.php 64
+ERROR - 2016-08-25 20:34:01 --> Severity: Notice --> Undefined variable: val C:\xampp\htdocs\php\cms\application\helpers\queuescript_helper.php 64
+ERROR - 2016-08-25 20:34:01 --> Severity: Notice --> Undefined variable: element C:\xampp\htdocs\php\cms\application\helpers\queuescript_helper.php 64
+ERROR - 2016-08-25 20:34:24 --> Severity: Notice --> Undefined variable: key C:\xampp\htdocs\php\cms\application\helpers\queuescript_helper.php 64
+ERROR - 2016-08-25 20:34:24 --> Severity: Notice --> Undefined variable: val C:\xampp\htdocs\php\cms\application\helpers\queuescript_helper.php 64
+ERROR - 2016-08-25 20:34:24 --> Severity: Notice --> Undefined variable: element C:\xampp\htdocs\php\cms\application\helpers\queuescript_helper.php 64
+ERROR - 2016-08-25 20:34:46 --> Severity: Notice --> Undefined variable: key C:\xampp\htdocs\php\cms\application\helpers\queuescript_helper.php 64
+ERROR - 2016-08-25 20:34:46 --> Severity: Notice --> Undefined variable: val C:\xampp\htdocs\php\cms\application\helpers\queuescript_helper.php 64
+ERROR - 2016-08-25 20:34:46 --> Severity: Notice --> Undefined variable: element C:\xampp\htdocs\php\cms\application\helpers\queuescript_helper.php 64
+ERROR - 2016-08-25 20:36:03 --> Severity: Notice --> Undefined variable: key C:\xampp\htdocs\php\cms\application\helpers\queuescript_helper.php 64
+ERROR - 2016-08-25 20:36:03 --> Severity: Notice --> Undefined variable: val C:\xampp\htdocs\php\cms\application\helpers\queuescript_helper.php 64
+ERROR - 2016-08-25 20:36:03 --> Severity: Notice --> Undefined variable: element C:\xampp\htdocs\php\cms\application\helpers\queuescript_helper.php 64
+ERROR - 2016-08-25 20:36:33 --> Severity: Notice --> Undefined variable: key C:\xampp\htdocs\php\cms\application\helpers\queuescript_helper.php 64
+ERROR - 2016-08-25 20:36:33 --> Severity: Notice --> Undefined variable: val C:\xampp\htdocs\php\cms\application\helpers\queuescript_helper.php 64
+ERROR - 2016-08-25 20:36:33 --> Severity: Notice --> Undefined variable: element C:\xampp\htdocs\php\cms\application\helpers\queuescript_helper.php 64
+ERROR - 2016-08-25 20:36:37 --> Severity: Notice --> Undefined variable: key C:\xampp\htdocs\php\cms\application\helpers\queuescript_helper.php 64
+ERROR - 2016-08-25 20:36:37 --> Severity: Notice --> Undefined variable: val C:\xampp\htdocs\php\cms\application\helpers\queuescript_helper.php 64
+ERROR - 2016-08-25 20:36:37 --> Severity: Notice --> Undefined variable: element C:\xampp\htdocs\php\cms\application\helpers\queuescript_helper.php 64

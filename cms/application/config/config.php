@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = '';
+$config['base_url'] = 'http://127.1.0.0:8080/php/cms/';
 
 /*
 |--------------------------------------------------------------------------
@@ -35,7 +35,8 @@ $config['base_url'] = '';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+//$config['index_page'] = 'index.php';
+$config['index_page'] = ''; //Updated for removing index.php from URL
 
 /*
 |--------------------------------------------------------------------------
@@ -511,3 +512,5 @@ $config['rewrite_short_tags'] = FALSE;
 | Array:		array('10.0.1.200', '192.168.5.0/24')
 */
 $config['proxy_ips'] = '';
+
+$config['assets_path'] = 'assets/';
