@@ -10,7 +10,6 @@
         }
 
         public function add($user){
-        	print_r($user);
         	$this->db->insert('test',$user);
         }
     }
